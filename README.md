@@ -5,3 +5,8 @@ El funcionamiento es el siguiente:
 -Se recorre el array para localizar el número mayor.
 -Se vuelve a recorrer el array para contar cuántas veces aparece ese número.
 -Finalmente, se muestra por pantalla el número mayor seguido del número de repeticiones en el formato mayor:repeticiones.
+## Como ejecutar el programa
+-Eliges los valores que va a contener la array.
+-Una vez creado el codigo completo, se ejecuta desde el "run", y el propio codigo acabará mostrando por pantalla el número mayor, y su número de repeticiones.
+## Autor
+Joel García
